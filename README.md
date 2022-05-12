@@ -1,6 +1,6 @@
 
 
-<a href="https://www.facebook.com/dipeshsiwakoti112"><img width="100%" height="auto" src="coder-dipesh.jpg" /></a>
+<a href="https://www.facebook.com/shishir.bhandariii"><img width="100%" height="auto" src="coder-dipesh.jpg" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shishi Bhandari from Nepal.</h1>
 <h3 align="center">I ❤ Coding.</h3>
@@ -33,7 +33,7 @@
 
 <p align="center">
     <a href="https://github.com/itsmeShishir/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Coder-dipesh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-dipesh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Citsmeshishir streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-dipesh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
