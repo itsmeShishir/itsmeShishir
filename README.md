@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JAVA Programming**, **Django**, **Laravel**, **MERN**, **php** and **JS**.
 
-- 📫 How to reach me **shishirbhandariii@gmail.com**
+- 📫 How to reach me **contact@bhandarishishir.com.np**
 
 -Visit me on **bhandarshishir.com.np**
 
