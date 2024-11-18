@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contact@bhandarishishir.com.np**
 
--Visit me on **bhandarshishir.com.np**
+-Visit me on **bhandarishishir.com.np**
 
 <!-- - ⚡ Fun fact **I play games very often.** -->
 
