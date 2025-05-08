@@ -101,7 +101,7 @@ I enjoy working with a variety of tools and technologies:
   </a>
 </p>
 <!-- Activity Graph -->
-[![Shishir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmeshishir&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/itsmeshishir/github-readme-activity-graph)
+[![Shishir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmeShishir&custom_title=Shishir's%20GitHub%20Contribution%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
