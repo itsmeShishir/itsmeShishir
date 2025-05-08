@@ -1,7 +1,6 @@
 # Hi there, I'm Shishir Bhandari! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <img src="[LINK_TO_YOUR_PROFESSIONAL_PHOTO_OR_BANNER_IF_YOU_HAVE_ONE]" alt="Shishir Bhandari Banner/Photo" width="70%"/> 
   <!-- Optional: Replace the above with a cool coding banner or remove if not needed -->
   <h3 align="center">Full Stack Developer | Backend Specialist (Python, Django/DRF) | Technology Instructor</h3>
   <h4 align="center">Based in Kathmandu, Nepal 🇳🇵</h4>
@@ -101,8 +100,7 @@ I enjoy working with a variety of tools and technologies:
   </a>
 </p>
 <!-- Activity Graph -->
-[![Shishir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmeShishir&custom_title=Shishir's%20GitHub%20Contribution%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Shishir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsmeShishir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ---
 
