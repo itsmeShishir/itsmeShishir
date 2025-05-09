@@ -100,7 +100,8 @@ I enjoy working with a variety of tools and technologies:
   </a>
 </p>
 <!-- Activity Graph -->
-[![Shishir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsmeShishir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Shishir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmeShishir&custom_title=Shishir's%20GitHub%20Contribution%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
