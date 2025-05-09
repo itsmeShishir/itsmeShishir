@@ -102,10 +102,7 @@ I enjoy working with a variety of tools and technologies:
 <!-- Activity Graph -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeShishir
-         &custom_title=Shishir%27s%20GitHub%20Contribution%20Activity
-         &theme=react-dark
-         &hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeShishir&custom_title=Shishir%27s%20GitHub%20Contribution%20Activity&theme=react-dark&hide_border=true"
     alt="Shishir's GitHub Activity Graph"
     style="max-width: 100%;"/>
 </p>
