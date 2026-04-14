@@ -65,15 +65,29 @@ I specialize in combining **AI + Backend Engineering** to build real-world impac
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
+
+*(Note: Top languages reflect code in public repos, not comprehensive skill level.)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeShishir&show_icons=true&theme=react&hide_border=true" />
+  <!-- GitHub Readme Stats -->
+  <a href="https://github.com/itsmeShishir/github-readme-stats"><img alt="Shishir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsmeShishir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeShishir&layout=compact&theme=react&hide_border=true" />
+  <a href="https://github.com/itsmeShishir/github-readme-stats"><img alt="Shishir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeShishir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+   <!-- Streak Stats -->
+  <a href="https://github.com/itsmeShishir/github-readme-streak-stats">
+        <img title="GitHub Streak Stats" alt="itsmeShishir streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeShishir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeShishir&custom_title=Shishir%27s%20GitHub%20Contribution%20Activity&theme=react-dark&hide_border=true"
+    alt="Shishir's GitHub Activity Graph"
+    style="max-width: 100%;"/>
 </p>
 
----
 
 ## 🚀 What I Focus On
 
@@ -86,21 +100,33 @@ I specialize in combining **AI + Backend Engineering** to build real-world impac
 
 ## 📫 Let's Connect!
 
+I'm always open to discussing new projects, technology trends, or potential collaborations.
+
 <p align="left">
-<a href="https://www.linkedin.com/in/shishir-bhandari-9b33b01b7/" target="_blank">
-    LinkedIn
-</a> |
+<a href="https://www.linkedin.com/in/[YourCustomLinkedInURL]" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle; margin-right:5px;"/> LinkedIn
+</a>   
 <a href="https://github.com/itsmeShishir" target="_blank">
-    GitHub
-</a> |
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="vertical-align:middle; margin-right:5px;"/> GitHub
+</a>   
 <a href="https://bhandarishishir.com.np" target="_blank">
-    Portfolio
-</a> |
+    <img src="https://img.icons8.com/material-outlined/48/000000/domain--v1.png" alt="Portfolio/Website" style="vertical-align:middle; margin-right:5px;"/> Portfolio
+</a>   
 <a href="mailto:contact@bhandarishishir.com.np">
-    Email
+    <img src="https://img.icons8.com/fluent/48/000000/mail.png" alt="Email" style="vertical-align:middle; margin-right:5px;"/> Email
 </a>
 </p>
 
 ---
+
+<!-- Optional: Uncomment and update if you want to add profile views -->
+<!--
+**Profile Views:** 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=itsmeShishir"></a>
+-->
+
+
+
+
 
 ⭐ *“Building intelligent systems that solve real-world problems using AI.”*
